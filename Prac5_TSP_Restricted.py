@@ -120,7 +120,7 @@ def calDist(set_ciudad):
 # # Funcion VERIFICA VALIDEZ DE CROMOSOMA
 
 # In[4]:
-
+# agregar a función para mejorar ejecución
 
 def validacion(cromosoma_x):
     crom_x= cromosoma_x.copy()
