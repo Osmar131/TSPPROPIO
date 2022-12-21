@@ -139,7 +139,7 @@ def validacion(cromosoma_x):
 # # Funcion CREACION DE CROMOSOMA VALIDO
 
 # In[5]:
-# esto es otra función aparte para reducir el codigo principal
+
 
 def crom_validos(cities):
     ciudades=cities.copy()
